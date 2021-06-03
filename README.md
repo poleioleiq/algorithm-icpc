@@ -1,1 +1,1 @@
-# icpc啥都不会
+# icpc-code
