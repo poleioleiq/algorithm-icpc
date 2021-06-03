@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/algorihtm/Persistent_Data_Structure/POJ_2104.cpp
+iostream
+-
+cstdio
+-
+cmath
+-
+cstring
+-
+climits
+-
+queue
+-
+vector
+-
+stack
+-
+algorithm
+-
+cctype
+-
+

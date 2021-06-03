@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/algorihtm/Merkle_Tree/BZOJ_4337.cpp
+iostream
+-
+cstdio
+-
+cmath
+-
+cstring
+-
+climits
+-
+queue
+-
+vector
+-
+stack
+-
+algorithm
+-
+cctype
+-
+

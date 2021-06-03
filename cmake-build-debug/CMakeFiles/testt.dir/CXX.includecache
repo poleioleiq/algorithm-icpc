@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/algorihtm/TREE_CS/5415.cpp
+iostream
+-
+cstdio
+-
+cmath
+-
+cstring
+-
+climits
+-
+queue
+-
+vector
+-
+map
+-
+stack
+-
+algorithm
+-
+cctype
+-
+iomanip
+-
+

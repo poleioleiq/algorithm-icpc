@@ -1,0 +1,24 @@
+"D:\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\algorihtm\TREE_CHAIN_SPLIT
+    -- src/HAOI2015.cpp will be compiled to bin/HAOI2015
+    -- src/P3372.cpp will be compiled to bin/P3372
+    -- src/P3384.cpp will be compiled to bin/P3384
+    -- src/P3384_2.cpp will be compiled to bin/P3384_2
+    -- src/P3384_3.cpp will be compiled to bin/P3384_3
+    -- src/ZJOI_2008.cpp will be compiled to bin/ZJOI_2008
+    -- src/loj_139_TCS2.cpp will be compiled to bin/loj_139_TCS2
+    -- src/test.cpp will be compiled to bin/test
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    SEG_N/POJ_2104.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: TREE_CHAIN_SPLIT
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

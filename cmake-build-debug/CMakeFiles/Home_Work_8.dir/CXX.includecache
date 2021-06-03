@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/algorihtm/Home_Work/8.cpp
+stdio.h
+-
+malloc.h
+-
+string.h
+-
+iostream
+-
+cstdio
+-
+cmath
+-
+cstring
+-
+climits
+-
+queue
+-
+vector
+-
+stack
+-
+algorithm
+-
+cctype
+-
+

@@ -1,0 +1,22 @@
+"D:\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\algorihtm\SEGMENT
+    -- src/BZOJ_4695.cpp will be compiled to bin/BZOJ_4695
+    -- src/HDU_1255.cpp will be compiled to bin/HDU_1255
+    -- src/HDU_1540.cpp will be compiled to bin/HDU_1540
+    -- src/HDU_1542.cpp will be compiled to bin/HDU_1542
+    -- src/HDU_1698.cpp will be compiled to bin/HDU_1698
+    -- src/HDU_3462.cpp will be compiled to bin/HDU_3462
+    -- src/HDU_3974.cpp will be compiled to bin/HDU_3974
+    -- src/HDU_3974_2.cpp will be compiled to bin/HDU_3974_2
+    -- src/HDU_4553.cpp will be compiled to bin/HDU_4553
+    -- src/HDU_4578.cpp will be compiled to bin/HDU_4578
+    -- src/HDU_4614.cpp will be compiled to bin/HDU_4614
+    -- src/P1198.cpp will be compiled to bin/P1198
+    -- src/P1531.cpp will be compiled to bin/P1531
+    -- src/P3372.cpp will be compiled to bin/P3372
+    -- src/POJ_1177.cpp will be compiled to bin/POJ_1177
+    -- src/POJ_2528.cpp will be compiled to bin/POJ_2528
+    -- src/ZOJ_1610.cpp will be compiled to bin/ZOJ_1610
+    -- src/test.cpp will be compiled to bin/test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/algorihtm/SEGMENT/cmake-build-debug

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/algorihtm/TREE_CHAIN_SPLIT/P3384_3.cpp
+iostream
+-
+cstdio
+-
+cmath
+-
+cstring
+-
+climits
+-
+queue
+-
+vector
+-
+stack
+-
+algorithm
+-
+cctype
+-
+

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="algorihtm" targetName="BZOJ_4196" />
+      <config projectName="algorihtm" targetName="demo" />
+      <config projectName="algorihtm" targetName="BZOJ_4337" />
+      <config projectName="algorihtm" targetName="POJ_2104" />
+      <config projectName="algorihtm" targetName="BZOJ_4520" />
+      <config projectName="algorihtm" targetName="Home_Work_8" />
+      <config projectName="algorihtm" targetName="b" />
+      <config projectName="algorihtm" targetName="a" />
+      <config projectName="algorihtm" targetName="LOJ_139_TCS2_CPP" />
+      <config projectName="algorihtm" targetName="demo2" />
+      <config projectName="algorihtm" targetName="loj_139_3" />
+      <config projectName="algorihtm" targetName="HAOI_2015" />
+      <config projectName="algorihtm" targetName="HAOI_2015_2" />
+      <config projectName="algorihtm" targetName="LOJ_139_2" />
+      <config projectName="algorihtm" targetName="bzoj2049" />
+      <config projectName="algorihtm" targetName="BZOJ_2243" />
+      <config projectName="algorihtm" targetName="HDU_2402" />
+      <config projectName="algorihtm" targetName="testt" />
+      <config projectName="algorihtm" targetName="Qtree1" />
+      <config projectName="algorihtm" targetName="LOJ139139" />
+      <config projectName="algorihtm" targetName="P3834" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85f577bb-acda-4c13-9e65-9eb0dee21250" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Zpf0xnZzcTi6DO9igFnZz6hNKz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/K_D_Tree/BZOJ_4520.cpp" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\algorihtm\gb2020" />
+      <recent name="E:\algorihtm\Home_Work" />
+      <recent name="E:\algorihtm\Matrix_Tree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.bzoj2049">
+    <configuration name="BZOJ_2243" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="BZOJ_2243" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="BZOJ_2243">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BZOJ_4196" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="BZOJ_4196" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="BZOJ_4196">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BZOJ_4337" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="BZOJ_4337" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="BZOJ_4337">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BZOJ_4520" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="BZOJ_4520" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="BZOJ_4520">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HAOI_2015" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="HAOI_2015" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="HAOI_2015">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HAOI_2015_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="HAOI_2015_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="HAOI_2015_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_2402" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="HDU_2402" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="HDU_2402">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Home_Work_8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="Home_Work_8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="Home_Work_8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LOJ139139" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="LOJ139139" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="LOJ139139">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LOJ_139_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="LOJ_139_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="LOJ_139_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LOJ_139_TCS2_CPP" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="LOJ_139_TCS2_CPP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="LOJ_139_TCS2_CPP">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P3834" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="P3834" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="P3834">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJ_2104" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="POJ_2104" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="POJ_2104">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qtree1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="Qtree1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="Qtree1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="a">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="b">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bzoj2049" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="bzoj2049" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="bzoj2049">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="demo2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="demo2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loj_139_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="loj_139_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="loj_139_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="algorihtm" TARGET_NAME="testt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="algorihtm" RUN_TARGET_NAME="testt">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.BZOJ_2243" />
+      <item itemvalue="CMake Application.BZOJ_4196" />
+      <item itemvalue="CMake Application.BZOJ_4337" />
+      <item itemvalue="CMake Application.BZOJ_4520" />
+      <item itemvalue="CMake Application.HAOI_2015" />
+      <item itemvalue="CMake Application.HAOI_2015_2" />
+      <item itemvalue="CMake Application.HDU_2402" />
+      <item itemvalue="CMake Application.Home_Work_8" />
+      <item itemvalue="CMake Application.LOJ139139" />
+      <item itemvalue="CMake Application.LOJ_139_2" />
+      <item itemvalue="CMake Application.LOJ_139_TCS2_CPP" />
+      <item itemvalue="CMake Application.P3834" />
+      <item itemvalue="CMake Application.POJ_2104" />
+      <item itemvalue="CMake Application.Qtree1" />
+      <item itemvalue="CMake Application.a" />
+      <item itemvalue="CMake Application.b" />
+      <item itemvalue="CMake Application.bzoj2049" />
+      <item itemvalue="CMake Application.demo2" />
+      <item itemvalue="CMake Application.demo" />
+      <item itemvalue="CMake Application.loj_139_3" />
+      <item itemvalue="CMake Application.testt" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\mwt\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85f577bb-acda-4c13-9e65-9eb0dee21250" name="Default Changelist" comment="" />
+      <created>1585540736923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585540736923</updated>
+      <workItem from="1585540738502" duration="1217000" />
+      <workItem from="1585541966630" duration="2391000" />
+      <workItem from="1585545651484" duration="1486000" />
+      <workItem from="1585547313644" duration="1094000" />
+      <workItem from="1585983485075" duration="13390000" />
+      <workItem from="1586003757122" duration="4044000" />
+      <workItem from="1586442389892" duration="1941000" />
+      <workItem from="1586501887586" duration="1998000" />
+      <workItem from="1586588641544" duration="1224000" />
+      <workItem from="1586932589738" duration="19029000" />
+      <workItem from="1587211970577" duration="631000" />
+      <workItem from="1587279908251" duration="3607000" />
+      <workItem from="1587520115856" duration="147000" />
+      <workItem from="1589171458078" duration="2562000" />
+      <workItem from="1589252345999" duration="2186000" />
+      <workItem from="1589279441880" duration="45000" />
+      <workItem from="1589281077657" duration="2508000" />
+      <workItem from="1589380260509" duration="1904000" />
+      <workItem from="1589611519277" duration="612000" />
+      <workItem from="1589894139244" duration="2449000" />
+      <workItem from="1589947380343" duration="2823000" />
+      <workItem from="1589986912085" duration="245000" />
+      <workItem from="1590070168185" duration="2232000" />
+      <workItem from="1590137120176" duration="5360000" />
+      <workItem from="1590311069774" duration="691000" />
+      <workItem from="1590657770430" duration="1296000" />
+      <workItem from="1591184065027" duration="660000" />
+      <workItem from="1591195939519" duration="267000" />
+      <workItem from="1592670366926" duration="45000" />
+      <workItem from="1592671269454" duration="165000" />
+      <workItem from="1594607356831" duration="17000" />
+      <workItem from="1609250656140" duration="846000" />
+      <workItem from="1609338351350" duration="6387000" />
+      <workItem from="1609377895239" duration="4542000" />
+      <workItem from="1609747545445" duration="4884000" />
+      <workItem from="1609854343226" duration="583000" />
+      <workItem from="1609859047391" duration="256000" />
+      <workItem from="1610179374588" duration="2784000" />
+      <workItem from="1615431801899" duration="604000" />
+      <workItem from="1616844955026" duration="298000" />
+      <workItem from="1620912541410" duration="1453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="905" height="485" key="GridCell.Tab.0.bottom" timestamp="1610180240502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="905" height="485" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610180240502" />
+    <state width="905" height="485" key="GridCell.Tab.0.center" timestamp="1610180240502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="905" height="485" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610180240502" />
+    <state width="905" height="485" key="GridCell.Tab.0.left" timestamp="1610180240502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="905" height="485" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610180240502" />
+    <state width="905" height="485" key="GridCell.Tab.0.right" timestamp="1610180240502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="905" height="485" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610180240502" />
+    <state width="905" height="485" key="GridCell.Tab.1.bottom" timestamp="1610180243279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="905" height="485" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610180243279" />
+    <state width="905" height="485" key="GridCell.Tab.1.center" timestamp="1610180243279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="905" height="485" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610180243279" />
+    <state width="905" height="485" key="GridCell.Tab.1.left" timestamp="1610180243279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="905" height="485" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610180243279" />
+    <state width="905" height="485" key="GridCell.Tab.1.right" timestamp="1610180243279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="905" height="485" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610180243279" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1616844999014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616844999014" />
+    <state x="1012" y="246" key="run.anything.popup" timestamp="1610179671501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1012" y="246" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610179671501" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Link_Cut_Tree/BZOJ_2049.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Link_Cut_Tree/BZOJ_2049.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/TREE_CHAIN_SPLIT/loj_139_TCS2.cpp</url>
+          <line>128</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="k" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

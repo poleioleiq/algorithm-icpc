@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\TREE_CHAIN_SPLIT.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\TREE_CHAIN_SPLIT.dir/objects.a @CMakeFiles\TREE_CHAIN_SPLIT.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TREE_CHAIN_SPLIT.dir/objects.a -Wl,--no-whole-archive  -o TREE_CHAIN_SPLIT.exe -Wl,--out-implib,libTREE_CHAIN_SPLIT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TREE_CHAIN_SPLIT.dir\linklibs.rsp

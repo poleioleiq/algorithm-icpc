@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/algorihtm/Merkle_Tree/HDU_6647.cpp
+algorithm
+-
+cmath
+-
+cstdio
+-
+cstring
+-
+iostream
+-
+map
+-
+set
+-
+utility
+-
+vector
+-
+

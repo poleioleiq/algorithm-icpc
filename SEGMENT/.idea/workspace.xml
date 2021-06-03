@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SEGMENT" targetName="HDU_3974_2" />
+      <config projectName="SEGMENT" targetName="test" />
+      <config projectName="SEGMENT" targetName="BZOJ_4695" />
+      <config projectName="SEGMENT" targetName="P3372" />
+      <config projectName="SEGMENT" targetName="HDU_1255" />
+      <config projectName="SEGMENT" targetName="HDU_4553" />
+      <config projectName="SEGMENT" targetName="SEGMENT" />
+      <config projectName="SEGMENT" targetName="HDU_1698" />
+      <config projectName="SEGMENT" targetName="HDU_4578" />
+      <config projectName="SEGMENT" targetName="ZOJ_1610" />
+      <config projectName="SEGMENT" targetName="P1198" />
+      <config projectName="SEGMENT" targetName="HDU_3462" />
+      <config projectName="SEGMENT" targetName="HDU_1542" />
+      <config projectName="SEGMENT" targetName="HDU_1540" />
+      <config projectName="SEGMENT" targetName="POJ_1177" />
+      <config projectName="SEGMENT" targetName="POJ_2528" />
+      <config projectName="SEGMENT" targetName="HDU_3974" />
+      <config projectName="SEGMENT" targetName="P1531" />
+      <config projectName="SEGMENT" targetName="HDU_4614" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd4da4fc-05ae-4d6b-9ad8-9b2801e4473c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZ8WzgYTSo2rB96z8QbKJhkOLj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="CMake Application.test">
+    <configuration name="BZOJ_4695" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="BZOJ_4695" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="BZOJ_4695">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_1255" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="HDU_1255" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="HDU_1255">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_1540" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="HDU_1540" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="HDU_1540">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_1542" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="HDU_1542" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="HDU_1542">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_1698" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="HDU_1698" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="HDU_1698">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_3462" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="HDU_3462" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="HDU_3462">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_3974" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="HDU_3974" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="HDU_3974">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_3974_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="HDU_3974_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="HDU_3974_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_4553" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="HDU_4553" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="HDU_4553">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_4578" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="HDU_4578" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="HDU_4578">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDU_4614" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="HDU_4614" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="HDU_4614">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1198" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="P1198" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="P1198">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1531" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="P1531" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="P1531">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P3372" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="P3372" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="P3372">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJ_1177" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="POJ_1177" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="POJ_1177">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POJ_2528" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="POJ_2528" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="POJ_2528">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SEGMENT" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="SEGMENT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="SEGMENT">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZOJ_1610" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="ZOJ_1610" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="ZOJ_1610">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEGMENT" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEGMENT" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.BZOJ_4695" />
+      <item itemvalue="CMake Application.HDU_1255" />
+      <item itemvalue="CMake Application.HDU_1540" />
+      <item itemvalue="CMake Application.HDU_1542" />
+      <item itemvalue="CMake Application.HDU_1698" />
+      <item itemvalue="CMake Application.HDU_3462" />
+      <item itemvalue="CMake Application.HDU_3974" />
+      <item itemvalue="CMake Application.HDU_3974_2" />
+      <item itemvalue="CMake Application.HDU_4553" />
+      <item itemvalue="CMake Application.HDU_4578" />
+      <item itemvalue="CMake Application.HDU_4614" />
+      <item itemvalue="CMake Application.P1198" />
+      <item itemvalue="CMake Application.P1531" />
+      <item itemvalue="CMake Application.P3372" />
+      <item itemvalue="CMake Application.POJ_1177" />
+      <item itemvalue="CMake Application.POJ_2528" />
+      <item itemvalue="CMake Application.SEGMENT" />
+      <item itemvalue="CMake Application.ZOJ_1610" />
+      <item itemvalue="CMake Application.test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd4da4fc-05ae-4d6b-9ad8-9b2801e4473c" name="Default Changelist" comment="" />
+      <created>1585035291517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585035291517</updated>
+      <workItem from="1585035292803" duration="236000" />
+      <workItem from="1585035877787" duration="16939000" />
+      <workItem from="1585535929988" duration="689000" />
+      <workItem from="1585536749304" duration="444000" />
+      <workItem from="1585537845478" duration="232000" />
+      <workItem from="1585540703022" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585035411421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585035411421" />
+    <state x="682" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585035937900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585035937900" />
+    <state width="629" height="447" key="GridCell.Tab.0.bottom" timestamp="1585538076747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="629" height="447" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585538076747" />
+    <state width="629" height="447" key="GridCell.Tab.0.center" timestamp="1585538076747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="629" height="447" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585538076747" />
+    <state width="629" height="447" key="GridCell.Tab.0.left" timestamp="1585538076747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="629" height="447" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585538076747" />
+    <state width="629" height="447" key="GridCell.Tab.0.right" timestamp="1585538076747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="629" height="447" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585538076747" />
+    <state width="1877" height="145" key="GridCell.Tab.1.bottom" timestamp="1585037517758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="145" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585037517758" />
+    <state width="1877" height="145" key="GridCell.Tab.1.center" timestamp="1585037517758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="145" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585037517758" />
+    <state width="1877" height="145" key="GridCell.Tab.1.left" timestamp="1585037517758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="145" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585037517758" />
+    <state width="1877" height="145" key="GridCell.Tab.1.right" timestamp="1585037517758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="145" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585037517758" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1585536146155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585536146155" />
+    <state x="1091" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1585045754755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1091" y="247" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585045754755" />
+  </component>
+</project>

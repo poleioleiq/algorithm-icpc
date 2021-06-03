@@ -1,0 +1,10 @@
+E:/algorihtm/TREE_CHAIN_SPLIT/cmake-build-debug/CMakeFiles/ZJOI_2008.dir
+E:/algorihtm/TREE_CHAIN_SPLIT/cmake-build-debug/CMakeFiles/TREE_CHAIN_SPLIT.dir
+E:/algorihtm/TREE_CHAIN_SPLIT/cmake-build-debug/CMakeFiles/HAOI2015.dir
+E:/algorihtm/TREE_CHAIN_SPLIT/cmake-build-debug/CMakeFiles/P3384.dir
+E:/algorihtm/TREE_CHAIN_SPLIT/cmake-build-debug/CMakeFiles/P3384_2.dir
+E:/algorihtm/TREE_CHAIN_SPLIT/cmake-build-debug/CMakeFiles/loj_139_TCS2.dir
+E:/algorihtm/TREE_CHAIN_SPLIT/cmake-build-debug/CMakeFiles/P3384_3.dir
+E:/algorihtm/TREE_CHAIN_SPLIT/cmake-build-debug/CMakeFiles/test.dir
+E:/algorihtm/TREE_CHAIN_SPLIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/algorihtm/TREE_CHAIN_SPLIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
